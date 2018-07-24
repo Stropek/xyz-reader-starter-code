@@ -10,7 +10,8 @@
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="fab_size">56dp</dimen>
 
-    <dimen name="appBarLayout">168dp</dimen>
+    <dimen name="appbar_layout">168dp</dimen>
+    <dimen name="appbar_layout_elevation">4dp</dimen>
 
     <dimen name="cardview_elevation">8dp</dimen>
     <dimen name="cardview_margin">4dp</dimen>
